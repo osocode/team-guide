@@ -30,7 +30,7 @@ Without any standardization or process the cognitive load will increase and less
 If we can't say what we do today and measure it. We cannot improve it. 
 If you can't describe what you are doing as a process, then you don't know what you are doing.
 
-> See: Team Topologies for more examples of reducing the extraneous cognitive load and organization tax of working to deliver better.
+> See: Team Topologies to learn ways to reduce cognitive load and why team APIs (even simple ones) are important and easy to make and improve.
 
 **Lean**
 
